@@ -56,5 +56,4 @@ Coffee-Shop-Sales-Dashboard/
 └── README.md
 
 
-## 👩‍💻 Author
-**Trapti Chauhan**
+
