@@ -1,6 +1,4 @@
-# Coffee-Shop-Sales-Analysis
-An interactive Power BI dashboard analyzing coffee shop sales performance using KPIs, sales trends, customer behavior, product performance, and payment methods to generate actionable business insights.
-# ☕ Coffee Shop Sales Dashboard
+# Coffee Shop Sales Dashboard
 
 # Overview
 An interactive Power BI dashboard built to analyze coffee shop sales performance using KPIs, sales trends, customer behavior, and product performance.
